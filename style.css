@@ -11,7 +11,6 @@ header {
     display: flex;
     padding: 2.5rem 3rem;
     z-index: 1;
-    margin-left: 0;
     background-color: gray;
     width: 100%;
     justify-content: space-evenly;
@@ -37,6 +36,10 @@ nav a{
 
 .image-control{
     background-image: url(images/Isb_control_room.webp);
+}
+
+.image-desk{
+    background-image: url(images/ISB-desk.jpg);
 }
 
 .main{
